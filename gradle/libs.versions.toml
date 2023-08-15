@@ -1,0 +1,12 @@
+[versions]
+agp = "8.1.0"
+appcompat = "1.6.1"
+material = "1.11.0-alpha02"
+
+[libraries]
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+

@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">TopAppBar</string>
+  <string name="label_lift_on_scroll">Lift on Scroll</string>
+  <string name="label_lifted">Lifted</string>
+</resources>
